@@ -1,0 +1,29 @@
+github表示
+Assets/Scripts/app/def以下、、、←Unity上の階層構造と同じ
+
+Assets/Scripts/App以下　def,featureのみ（systemはなし）
+
+
+github上　APP以下
+Assets/Scripts/App 	-def
+						- api
+						- game
+						- master
+					- feature
+github上　app以下
+Assets/Scripts/app 	- def
+						- api
+							- common
+							- duel
+							- system
+							- test
+							- user
+						- ba
+						- common
+						- game
+						- master
+						- sample
+						- save
+						- sound
+					- feature
+					- system 
